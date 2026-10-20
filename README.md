@@ -23,3 +23,6 @@ I'm a Senior Computer Science student at NC State University (Graduating Dec 202
 
 **📫 How to reach me:**
 - [LinkedIn](https://linkedin.com/in/hope-spence)
+- [Email](hopekspence@gmail.com)
+
+Profile picture by [@Leapfog1](https://x.com/Leapfog1)

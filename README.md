@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Senior Computer Science student at NC State University (Graduating Dec 2026) passionate about backend engineering, Python, and API integrations.
+I'm a Senior Computer Science student at NC State University (Graduating Dec 2026) passionate about Python, game development, and full-stack applications.
 
-- 🔭 I’m currently working on **SpotBot**, a Python-based Discord/Spotify integration deployed on Railway.
-- 🌱 I’m currently learning **FastAPI, Docker, and CI/CD pipelines**.
-- 💼 I'm actively seeking Entry-Level Software Engineering and Backend Developer roles!
+- 🔭 I’m currently working on **Let's Talk**, a full-stack app developed by [Teen Health Research](https://www.teenhealthresearch.com/) helping teens and parents talk about hard conversations as my senior design project!
+- 🌱 I’m currently learning **JavaScript, Python, and C++ for Game Development**.
+- 💼 I'm actively seeking Entry-Level Software Engineering roles!
+- ⚡ Fun fact: My first coding language was C++ when I first learned about coding in a high school game development class!
 
 **📫 How to reach me:**
 - [LinkedIn](https://linkedin.com/in/hope-spence)
